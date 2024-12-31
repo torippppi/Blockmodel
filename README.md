@@ -1,5 +1,7 @@
 # Block model: Ionic conduction model for macroscopic powder compacts of Li-ion solid electrolytes
-**The "blockwalk.py" and "blockwalk2.py" were developed for simulating macroscopic ionic conduction of solid electrolyte compacts.** These programs help you to simulate how a Li-ion moves within a block-type percolation model and calculate the curvature of its pathway. I believe that this program could be applied not only to ionic conductors but also to various conduction models in other fields.  
+**The "blockwalk.py" and "blockwalk2.py" were developed for simulating macroscopic ionic conduction of solid electrolyte compacts.** 
+These programs help you to simulate how a Li-ion moves within a block-type percolation model and calculate the curvature of its pathway. 
+I believe that this program could be applied not only to ionic conductors but also to various conduction models in other fields.  
 
 ## Background
 [The article for the research using this program](https://doi.org/10.2109/jcersj2.24062) was already published.
